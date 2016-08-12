@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F97D939C-860E-3B5D-184D-74DF6C94966D}") = "Player Movement test", "Assembly-CSharp-firstpass.csproj", "{F9CECA98-B3FE-3E57-8FBC-1E2370DC31D6}"
+EndProject
+Project("{F97D939C-860E-3B5D-184D-74DF6C94966D}") = "Player Movement test", "Assembly-CSharp-Editor.csproj", "{657C835D-C0F1-30C9-9035-389B135FB6B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9CECA98-B3FE-3E57-8FBC-1E2370DC31D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CECA98-B3FE-3E57-8FBC-1E2370DC31D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CECA98-B3FE-3E57-8FBC-1E2370DC31D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CECA98-B3FE-3E57-8FBC-1E2370DC31D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657C835D-C0F1-30C9-9035-389B135FB6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657C835D-C0F1-30C9-9035-389B135FB6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657C835D-C0F1-30C9-9035-389B135FB6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657C835D-C0F1-30C9-9035-389B135FB6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
